@@ -10,7 +10,7 @@ hi DiffDelete guibg=DarkRed guifg=Black ctermbg=DarkRed ctermfg=White
 hi DiffAdd guibg=DarkGreen ctermbg=DarkGreen ctermfg=White
 hi DiffChange guibg=Gray30 ctermbg=DarkCyan ctermfg=White
 hi DiffText gui=NONE guibg=DarkCyan ctermbg=DarkCyan ctermfg=Yellow
-hi Comment guifg=LightBlue
+hi Comment guifg=#666666
 hi Constant guifg=DeepPink
 hi PreProc guifg=Magenta ctermfg=Magenta
 hi StatusLine guibg=#FFFF00 guifg=#0000FF cterm=NONE ctermfg=White ctermbg=DarkGreen
