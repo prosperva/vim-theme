@@ -21,5 +21,4 @@ hi Identifier guifg=Cyan
 hi Statement guifg=brown3 ctermfg=DarkRed
 hi Search guibg=Gold3 ctermfg=White
 highlight Cursor guifg=NONE guibg=#666666
-set guicursor=n-v-c-i:block-Cursor
-set guicursor+=n-v-c-i:blinkon0
+set guicursor=n-v-c-i:block-Cursor-blinkon0
